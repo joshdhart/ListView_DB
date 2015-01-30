@@ -1,0 +1,9 @@
+C:\Users\SP_Dev\Documents\Visual Studio 2013\Projects\ListView_DB\ListView_DB\bin\Debug\ListView_DB.dacpac
+C:\Users\SP_Dev\Documents\Visual Studio 2013\Projects\ListView_DB\ListView_DB\bin\Debug\ListView_DB.dll
+C:\Users\SP_Dev\Documents\Visual Studio 2013\Projects\ListView_DB\ListView_DB\bin\Debug\ListView_DB.pdb
+C:\Users\SP_Dev\Documents\Visual Studio 2013\Projects\ListView_DB\ListView_DB\obj\Debug\ListView_DB.dll
+C:\Users\SP_Dev\Documents\Visual Studio 2013\Projects\ListView_DB\ListView_DB\obj\Debug\ListView_DB.pdb
+C:\Users\SP_Dev\Documents\Visual Studio 2013\Projects\ListView_DB\ListView_DB\obj\Debug\Model.xml
+C:\Users\SP_Dev\Documents\Visual Studio 2013\Projects\ListView_DB\ListView_DB\obj\Debug\refactor.xml
+C:\Users\SP_Dev\Documents\Visual Studio 2013\Projects\ListView_DB\ListView_DB\obj\Debug\postdeploy.sql
+C:\Users\SP_Dev\Documents\Visual Studio 2013\Projects\ListView_DB\ListView_DB\obj\Debug\predeploy.sql

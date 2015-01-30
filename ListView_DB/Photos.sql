@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Photos]
+(
+	[Id] INT IDENTITY (1,1) NOT NULL PRIMARY KEY, 
+    [ProductId] INT NOT NULL FOREIGN KEY REFERENCES Product(ProductId), 
+    [Image] VARBINARY(MAX) NOT NULL 
+)
